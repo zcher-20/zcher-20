@@ -1,46 +1,45 @@
 <img width="488" height="517" alt="Screenshot 2026-06-02 at 6 09 33 PM" src="https://github.com/user-attachments/assets/ee7a89e7-d5a4-439f-be52-c0316c22bf9b" />
 
-# Hi, I'm Zayneb 👋
+```txt
+zayneb@columbia ~ % profile
 
-I'm a Computer Science student at Columbia University interested in building products that sit at the intersection of technology, design, and human behavior.
+                  .-.
+                 /   \
+                |  ◌  |
+                 \   /
+                  `-'
 
-Currently, I'm exploring:
+Zayneb Cherif
+CS Student @ Columbia University
+New York City
 
-* 💻 Software Engineering
-* 🤖 AI & Machine Learning
-* 🎨 Product Design & Front-End Development
-* 📊 Data Science & Analytics
-* 🌍 Technology for social impact
+OS:        Computer Science, Design, Data
+Host:      Columbia University
+Kernel:    Software Engineering + Product Thinking
+IDE:       VS Code, GitHub, Figma
 
-### What I'm Working On
+Languages.Programming:   Java, Python, JavaScript, TypeScript, SQL
+Languages.Design:        HTML, CSS, Tailwind, React, Next.js
+Languages.Real:          English, Arabic, Italian, Spanish
 
-* Building AI-powered products and experimental web applications
-* Exploring human-centered design and user experience
-* Learning modern full-stack development
-* Developing projects that combine technical depth with thoughtful design
+Interests.Software:      AI tools, full-stack apps, creative coding
+Interests.Product:       UX, product strategy, design systems
+Interests.Data:          analytics, ML, financial technology
 
-### Tech Stack
+Currently:
+- Studying data structures, algorithms, and software engineering
+- Building AI-native web products
+- Exploring the intersection of CS, design, and human behavior
+- Looking for SWE, product, and AI internship opportunities
 
-```text
-Languages
-Java • Python • JavaScript • TypeScript • SQL
+Projects:
+- Foldspace        3D origami platform using React + Three.js
+- PRD Reviewer     AI tool for reviewing product requirement docs
+- Portfolio        Visual archive of projects, writing, and creative work
 
-Frontend
-React • Next.js • HTML • CSS • Tailwind CSS
-
-Tools
-Git • GitHub • Figma • Vercel
-
-Currently Learning
-Machine Learning • System Design • Full-Stack Development
+Contact:
+GitHub:    @yourusername
+LinkedIn:  linkedin.com/in/yourname
+Portfolio: yourwebsite.com
+Email:     your.email@example.com
 ```
-
-### Beyond Code
-
-When I'm not coding, you'll probably find me:
-
-* 📸 Shooting film photography
-* 🎨 Exploring art, architecture, and design
-* 📚 Reading and collecting interesting ideas
-* ✈️ Traveling and documenting places through photography
-* 🇲🇦 Spending time between New York and Morocco
