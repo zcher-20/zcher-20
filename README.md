@@ -19,24 +19,6 @@ Currently, I'm exploring:
 * Learning modern full-stack development
 * Developing projects that combine technical depth with thoughtful design
 
-### Featured Projects
-
-#### Foldspace
-
-An interactive origami platform that combines mathematics, visualization, and 3D web technologies to transform folding instructions into immersive digital experiences.
-
-**Tech:** React, Three.js, React Three Fiber, Tailwind CSS
-
-#### PRD Reviewer
-
-An AI-powered tool that analyzes product requirement documents and provides structured feedback on clarity, completeness, and product thinking.
-
-**Tech:** Next.js, TypeScript, AI APIs
-
-#### AI & Data Projects
-
-Exploring machine learning, analytics, and data-driven applications through coursework and independent projects.
-
 ### Tech Stack
 
 ```text
@@ -62,11 +44,3 @@ When I'm not coding, you'll probably find me:
 * 📚 Reading and collecting interesting ideas
 * ✈️ Traveling and documenting places through photography
 * 🇲🇦 Spending time between New York and Morocco
-
-### Let's Connect
-
-* LinkedIn: [Your LinkedIn]
-* Portfolio: [Your Portfolio]
-* Email: [Your Email]
-
-> Interested in building technology that's not only functional, but meaningful.
