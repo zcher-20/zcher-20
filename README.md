@@ -1,8 +1,6 @@
 
 # Hi, I'm Zayneb !
 
-I'm a Computer Science student at Columbia University interested in building products that sit at the intersection of technology, design, and human behavior.
-
 Currently, I'm exploring:
 
 * 💻 Software Engineering
