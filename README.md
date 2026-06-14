@@ -1,45 +1,28 @@
-
 # Hi, I'm Zayneb !
 
-Currently, I'm exploring:
+Computer Science + Design student at Barnard College interested in building thoughtful, AI-powered products.
 
-* 💻 Software Engineering
+### Currently Exploring
+
 * 🤖 AI & Machine Learning
-* 🎨 Product Design & Front-End Development
-* 📊 Data Science & Analytics
+* 💻 Software Engineering
+* 🎨 Product Design
+* 📊 Data Science
 * 🌍 Technology for social impact
 
-### What I'm Working On
+### Building
 
-* Building AI-powered products and experimental web applications
-* Exploring human-centered design and user experience
-* Learning modern full-stack development
-* Developing projects that combine technical depth with thoughtful design
+* AI agents and intelligent systems
+* Full-stack web applications
+* Human-centered product experiences
+* Projects at the intersection of AI, design, and data
 
+### Tech
 
-### Tech Stack
+**Languages:** Python, Java, TypeScript, JavaScript, SQL
+**Frontend:** React, Next.js, Tailwind CSS
+**Tools:** Git, GitHub, Figma, Vercel
 
-```text
-Languages
-Java • Python • JavaScript • TypeScript • SQL
+### Beyond Tech
 
-Frontend
-React • Next.js • HTML • CSS • Tailwind CSS
-
-Tools
-Git • GitHub • Figma • Vercel
-
-Currently Learning
-Machine Learning • System Design • Full-Stack Development
-```
-
-### Beyond Code
-
-When I'm not coding, you'll probably find me:
-
-* 📸 Shooting film photography
-* 🎨 Exploring art, architecture, and design
-* 📚 Reading and collecting interesting ideas in my digital garden
-* ✈️ Traveling and documenting places through photography
-* 🇲🇦 Spending time between New York and Morocco
-
+📸 Photography • 📚 Reading • ✈️ Travel • 🎨 Design • 🇲🇦 Morocco ↔ NYC
