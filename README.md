@@ -10,13 +10,6 @@ Computer Science + Design student at Barnard College interested in building thou
 * 📊 Data Science
 * 🌍 Technology for social impact
 
-### Building
-
-* AI agents and intelligent systems
-* Full-stack web applications
-* Human-centered product experiences
-* Projects at the intersection of AI, design, and data
-
 ### Tech
 
 **Languages:** Python, Java, TypeScript, JavaScript, SQL
