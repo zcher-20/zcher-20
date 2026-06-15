@@ -1,7 +1,3 @@
-# Hi, I'm Zayneb !
-
-Computer Science + Design student at Barnard College interested in building thoughtful, AI-powered products.
-
 ### Currently Exploring
 
 * 🤖 AI & Machine Learning
